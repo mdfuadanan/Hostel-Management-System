@@ -304,6 +304,7 @@ Selecting any category (`1`, `2`, or `3`) brings up its dedicated management men
 ## 👨‍💻 Author
 
 - **Name:** Md Fuad Anan
+- **University:** ULAB
 - **Student ID:** 251014032
 - **GitHub:** [@mdfuadanan](https://github.com/mdfuadanan)
 
